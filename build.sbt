@@ -1,4 +1,4 @@
-lazy val root = project.in(file(".")).enablePlugins(PlayScala)
+lazy val root = project.in(file(".")).enablePlugins(PlayJava)
 
 name := "just-play-java"
 
